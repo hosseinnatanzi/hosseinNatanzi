@@ -1,13 +1,13 @@
 Hi, I’m Hossein Natanzi
 
-##About me
+About me
 - 🌐 I'm currently working as a Backend developer
-##
+
 ##Hobby list
 - 🕹 I like games too
 - I enjoy watching movies and listening music.
 
- ## Tech Stack##
+ ## Tech Stack
 | Category | Technologies |
 | -------- | -------------|
 | **Backend** |  Python (Flask, FastAPI), Java (Spring Boot) |,
