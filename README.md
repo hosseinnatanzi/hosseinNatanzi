@@ -1,10 +1,10 @@
 Hi, I’m Hossein Natanzi
 
 About me
-- 🌐 I'm currently working as a Backend developer
+- 🌐 I'm currently working as a Backend developer.
 
-##Hobby list
-- 🕹 I like games too
+Hobby list:
+- 🕹 I like games too.
 - I enjoy watching movies and listening music.
 
  ## Tech Stack
