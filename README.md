@@ -1,6 +1,7 @@
 Hi, I’m Hossein Natanzi
 ##
-Backend developer \n| Passionate programmer facing coding challenges\n
+Backend developer 
+Passionate programmer facing coding challenges
 I enjoy  watching movies.
  ## Tech Stack
 | Category | Technologies |
