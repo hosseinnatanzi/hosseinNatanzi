@@ -1,32 +1,35 @@
-import 'package:flutter/material.dart';
+# Passionate Programmer
 
-void main() => runApp(MyApp());
+A small showcase that brings together a Flutter UI, a Spring Boot backend, and a Python script.  
+The Flutter app simply displays the message:
 
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      // Application title (optional)
-      title: 'Passionate Programmer',
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Home Page'),
-        ),
-        body: Center(
-          // Show text in a right‑to‑left layout
-          child: Directionality(
-            textDirection: TextDirection.rtl,
-            child: Text(
-              'Passionate programmer facing coding challenges',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-}
-✨Tech stack✨
-JAVA(FRAMEWORK SpringBOOT)
-PYTHON
-FLUTTER
+> **“Passionate programmer facing coding challenges.”**
+
+> 💡 This project can be expanded into a full‑stack application by wiring the UI to the backend and adding data‑processing logic in Python.
+
+---
+
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Clone the repo](#clone-the-repo)
+  - [Run the Flutter app](#run-the-flutter-app)
+  - [Run the Spring Boot service](#run-the-spring-boot-service)
+  - [Run the Python script](#run-the-python-script)
+- [Source Code](#source-code)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## Demo
+
+*(Add a GIF or screenshot of the running Flutter app here)*
+
+```bash
+# Example screenshot
+![Flutter Demo](images/flutter_demo.png)
