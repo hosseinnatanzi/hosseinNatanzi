@@ -27,6 +27,6 @@ class MyApp extends StatelessWidget {
   }
 }
 ✨Tech stack✨
-JAVA
+JAVA(FRAMEWORK SpringBOOT)
 PYTHON
 FLUTTER
