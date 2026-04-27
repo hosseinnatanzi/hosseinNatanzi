@@ -1,16 +1,32 @@
-## Hi there 👋
+import 'package:flutter/material.dart';
 
-<!--
-**hosseinnatanzi/hosseinNatanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+void main() => runApp(MyApp());
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      // Application title (optional)
+      title: 'Passionate Programmer',
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Home Page'),
+        ),
+        body: Center(
+          // Show text in a right‑to‑left layout
+          child: Directionality(
+            textDirection: TextDirection.rtl,
+            child: Text(
+              'Passionate programmer facing coding challenges',
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+✨Tech stack✨
+JAVA
+PYTHON
+FLUTTER
