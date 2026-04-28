@@ -2,6 +2,7 @@ Hi, I’m Hossein Natanzi
 
 About me
 - 🌐 I'm currently working as a Backend developer.
+- Passionate programmer facing coding challenges
 
 Hobby list:
 - 🕹 I like games too.
